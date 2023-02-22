@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char str[] = "Simon\n";
+char str[] = "Simeon\n";
 int i = 0;
 
 while (str[i] != '\0')
